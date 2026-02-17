@@ -1,16 +1,46 @@
-## Hi there 👋
+# Erick (@JEc0d3r)
 
-<!--
-**JEc0d3r/JEc0d3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingeniero electrónico | Ciberseguridad Junior | SOC / NOC | Infraestructura TI
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Perfil
+
+Profesional junior enfocado en **ciberseguridad**, **redes** e **infraestructura de TI**. Experiencia práctica mediante laboratorios, scripting y proyectos técnicos documentados. Interés en roles **SOC Analyst Jr**, **NOC** y soporte a infraestructura.
+
+---
+
+## Áreas técnicas
+
+**Ciberseguridad (Junior)**
+
+* Análisis básico de logs y eventos
+* Conceptos introductorios de SIEM
+* Hardening básico en Linux
+* Documentación de incidentes simulados
+
+**Redes e Infraestructura TI**
+
+* TCP/IP, DNS, DHCP, VLANs
+* Firewalls (FortiGate – nivel junior)
+* Monitoreo y troubleshooting
+* Sistemas Linux
+
+**Automatización**
+
+* Python para redes y seguridad
+* Bash scripting
+* Automatización de tareas repetitivas
+
+**Electrónica & IoT**
+
+* ESP32 / ESP8266
+* MQTT (Mosquitto)
+* Adquisición de datos
+
+---
+
+## Portafolio técnico
+
+* **Laboratorios SOC (Junior)**: análisis básico, hardening y monitoreo
+* **Redes e Infraestr
